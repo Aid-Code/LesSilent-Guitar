@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.19,
-          "height": 2.19,
-          "width": 1.74
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -109,7 +109,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.5,
+        "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
@@ -121,7 +121,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 1.0,
+        "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Ampflicador-3out-v2.kicad_pro",
+    "filename": "Amplificador-3out-v3-SMD.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -574,7 +574,7 @@
   },
   "sheets": [
     [
-      "5f6a0c50-88ca-432f-8e17-5a05c9c3ac4b",
+      "a17d3d61-1d52-4333-9d9c-890fb9108fc9",
       "Raíz"
     ]
   ],
