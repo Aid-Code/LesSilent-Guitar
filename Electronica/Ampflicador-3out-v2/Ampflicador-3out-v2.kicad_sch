@@ -3061,7 +3061,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 123.19) (xy 217.17 123.19)
+			(xy 209.55 123.19) (xy 215.9 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3081,7 +3081,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 135.89) (xy 217.17 135.89)
+			(xy 214.63 135.89) (xy 215.9 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3181,7 +3181,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 125.73) (xy 214.63 125.73)
+			(xy 215.9 125.73) (xy 214.63 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3411,7 +3411,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 118.11) (xy 222.25 115.57)
+			(xy 220.98 118.11) (xy 220.98 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3541,7 +3541,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 115.57) (xy 232.41 115.57)
+			(xy 220.98 115.57) (xy 232.41 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3631,7 +3631,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 133.35) (xy 217.17 133.35)
+			(xy 209.55 133.35) (xy 215.9 133.35)
 		)
 		(stroke
 			(width 0)
@@ -4167,7 +4167,7 @@
 	)
 	(symbol
 		(lib_id "Device:Speaker")
-		(at 222.25 133.35 0)
+		(at 220.98 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4176,7 +4176,7 @@
 		(fields_autoplaced yes)
 		(uuid "24744188-8734-493e-8be8-63fc6bdf4bba")
 		(property "Reference" "LS1"
-			(at 227.33 133.3499 0)
+			(at 226.06 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4185,7 +4185,7 @@
 			)
 		)
 		(property "Value" "Speaker"
-			(at 227.33 135.8899 0)
+			(at 226.06 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4194,7 +4194,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 222.25 138.43 0)
+			(at 220.98 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4203,7 +4203,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 221.996 134.62 0)
+			(at 220.726 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +4212,7 @@
 			)
 		)
 		(property "Description" "Speaker"
-			(at 222.25 133.35 0)
+			(at 220.98 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4994,7 +4994,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack2_Ground")
-		(at 222.25 123.19 180)
+		(at 220.98 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5002,7 +5002,7 @@
 		(dnp no)
 		(uuid "9337d7d9-5e7c-4f9f-90f1-da08698c4b21")
 		(property "Reference" "J1"
-			(at 227.076 123.444 0)
+			(at 225.806 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +5011,7 @@
 			)
 		)
 		(property "Value" "Jack 6.5"
-			(at 226.314 125.476 0)
+			(at 225.044 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +5020,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
-			(at 222.25 123.19 0)
+			(at 220.98 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5029,7 +5029,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 222.25 123.19 0)
+			(at 220.98 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +5038,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve"
-			(at 222.25 123.19 0)
+			(at 220.98 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
