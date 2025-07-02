@@ -171,7 +171,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/b7adc597-88c0-41ff-a8a2-be59dc5fff78")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -578,7 +578,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/74e7506c-89cb-41cc-ac20-ad80c7b72e6a")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1695,7 +1695,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/80a8e671-1206-4716-be3a-673c166aa143")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1969,7 +1969,7 @@
 		)
 		(property ki_fp_filters "TO?92*")
 		(path "/2234b2b8-e181-47f3-8034-9f82a04a6e86")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2200,7 +2200,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/59db0061-ec29-41cf-bbf2-9afa0782cc8e")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3316,7 +3316,7 @@
 			)
 		)
 		(path "/9aafb5ab-34c5-43bd-b21f-be3b84dd4af4")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3723,7 +3723,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/11687e01-d923-4284-8ac3-61df67aa6a8a")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5250,7 +5250,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/df8741ca-ba36-47e3-915d-5f7dad3ea720")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5657,7 +5657,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/87448d93-677c-4557-b93c-34572470c5a9")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5890,7 +5890,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/1d9f8533-a25d-4f55-ae9b-095f18e41a85")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6163,7 +6163,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSSOP*P0.65mm* TSSOP*3x3mm*P0.5mm*")
 		(path "/9f4c9d9c-52e6-40ce-a42d-32d7b4337905")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6495,7 +6495,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/df2688c9-3420-4b98-865d-eb62f4a184b7")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7612,7 +7612,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/92b26340-882f-461f-86a2-5781771b1edf")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8127,7 +8127,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/1b09660e-df6a-435f-9007-13d204858435")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8400,7 +8400,7 @@
 			)
 		)
 		(path "/bc959c78-40df-41e5-8343-7b517988b9f4")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8794,7 +8794,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/68f46d2d-3c44-4812-81bc-1d4a55db9452")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9201,7 +9201,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/e6d588b6-12a9-4f69-848d-2216733423da")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10568,7 +10568,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/749b15cc-07fe-47d2-920c-deef047446e7")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10754,7 +10754,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/1e20592e-f736-4aec-aa05-b09445ffbcd5")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -11235,7 +11235,7 @@
 		)
 		(property ki_fp_filters "CP_*")
 		(path "/c27b433f-6a68-4b89-938d-490cc901fc2b")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -12601,7 +12601,7 @@
 		)
 		(property ki_fp_filters "Potentiometer*")
 		(path "/cfc17ab4-c92c-4bb5-bcd2-ae3ceaa438e0")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13049,7 +13049,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d51153c1-a3a4-4495-91f8-84246b5e3959")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13356,7 +13356,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/3b35e652-5be3-4d63-90f5-86d08ec552c5")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13630,7 +13630,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/2bbca670-dddf-4588-9234-f923b7c2c7f7")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -13863,7 +13863,7 @@
 			)
 		)
 		(path "/b11e8d0e-335c-4f66-ab50-a9a8a1bb6997")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14270,7 +14270,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c83b00eb-19c0-45a8-9880-acb7983100af")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14677,7 +14677,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/edc2947a-ffba-4e58-9958-be9c618bc78e")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14951,7 +14951,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/bc61119a-36a7-4ef3-8495-ebd7cbad0715")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15225,7 +15225,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/0235d24c-f1bb-4161-bb6a-7286bb4850a0")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15630,7 +15630,7 @@
 			)
 		)
 		(path "/24744188-8734-493e-8be8-63fc6bdf4bba")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16036,7 +16036,7 @@
 		)
 		(property ki_fp_filters "Jack*")
 		(path "/9337d7d9-5e7c-4f9f-90f1-da08698c4b21")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16437,7 +16437,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1957b1e0-e033-4c04-9046-a815c0244cdd")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16745,7 +16745,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/e4e1c1de-e740-4859-b9aa-fb82e0e976ac")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16979,7 +16979,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/a64b93ef-2af5-4ecb-b618-6c24b199e462")
-		(sheetname "Raíz")
+		(sheetname "Root")
 		(sheetfile "Ampflicador-3out-v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
